@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changes from first user
+=======
+Told you this would change
+>>>>>>> feature
